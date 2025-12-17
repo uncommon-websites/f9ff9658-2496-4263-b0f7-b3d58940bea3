@@ -11,7 +11,7 @@
   import Footer from '$lib/components/Footer.svelte';
 </script>
 
-<div class="bg-white min-h-screen font-body selection:bg-[#E33E38] selection:text-white">
+<div class="bg-white min-h-screen font-body selection:bg-primary-600 selection:text-white">
   <Header />
   
   <main>

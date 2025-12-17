@@ -1,19 +1,19 @@
 <script>
   const articles = [
     {
-      title: "Wealth Management for a New Generation: Wealthfront Goes...",
-      author: "Mike Volpi",
-      image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=600&auto=format&fit=crop"
+      title: "Inside an AI Startup: The Unfiltered Reality of Building in 2025",
+      author: "Max Abram",
+      image: "/generated/image-ai-startup-office-interior-modern-worksp-1765989033002-5.webp"
     },
     {
-      title: "Security's Agentic Era Starts Here: Our Investment in 7AI",
-      author: "Shardul Shah",
-      image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=600&auto=format&fit=crop"
+      title: "Gonzo Journalism Meets Tech: Why Authentic Stories Matter",
+      author: "Max Abram",
+      image: "/generated/image-tech-founder-being-interviewed-casual-co-1765989040540-6.webp"
     },
     {
-      title: "Getting to know the Bornstein brothers",
-      author: "Nina Achadjian",
-      image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=600&auto=format&fit=crop"
+      title: "Behind the Scenes: How We Capture Startup Culture",
+      author: "Max Abram",
+      image: "/generated/image-startup-team-meeting-in-conference-room--1765989049796-7.webp"
     }
   ];
 </script>
